@@ -30,3 +30,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" wight="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" wight="40" height="40"/>
 </div>
+
+### :trophy: Достижения:
