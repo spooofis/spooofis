@@ -34,5 +34,5 @@
 ### :trophy: Достижения:
 
 <div>
-  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=spooofis)](https://github.com/ryo-ma/github-profile-trophy)" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=spooofis" alt=""/>
 </div>
