@@ -18,6 +18,6 @@
 
 ### :man_technologist: Обо мне :
 
-- :brain: C++ C# JS Pyphon  
+- :brain: факт обо мне
 - :man_pilot: Летал в Египет
 - :1st_place_medal: Первое место на соревнованиях по регби
