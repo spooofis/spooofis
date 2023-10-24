@@ -17,3 +17,7 @@
 </div>
 
 ### :man_technologist: Обо мне :
+
+- :brain: C++ C# JS Pyphon  
+- :man_pilot: Летал в Египет
+- :1st_place_medal: Первое место на соревнованиях по регби
